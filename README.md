@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About me
 
-- 🌱 I’m currently learning **React and TypeScript**
+- 🌱 I’m currently learning **TypeScript and NextJS**
 
 - 👨‍💻 All of my projects are available at [https://kaiowsz.vercel.app](https://kaiowsz.vercel.app)
 
