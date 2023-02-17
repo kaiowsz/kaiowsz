@@ -11,6 +11,8 @@
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=kaiowsz&show_icons=true&theme=radical" >
 
+![views](https://komarev.com/ghpvc/?username=kaiowsz&color=blueviolet)
+
 ### 👨‍💻 About me
 
 - 🌱 I’m currently learning **NextJS and Redux**
