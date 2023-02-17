@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About me
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **NextJS and Redux**
 
 - 👨‍💻 All of my projects are available at [https://kaiowsz.vercel.app](https://kaiowsz.vercel.app)
 
