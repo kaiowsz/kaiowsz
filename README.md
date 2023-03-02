@@ -15,7 +15,9 @@
 
 ### 👨‍💻 About me
 
-- 🌱 I’m currently learning **NextJS and Redux**
+- ⚡ I'm a Front-End Developer with knowledge in technologies such as **TypeScript, ReactJS, NextJS, SASS and NodeJS**
+
+- 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at [https://kaiowsz.vercel.app](https://kaiowsz.vercel.app)
 
