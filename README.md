@@ -17,8 +17,6 @@
 
 - ⚡ I'm a Front-End Developer with knowledge in technologies such as **TypeScript, ReactJS, NextJS, SCSS and NodeJS**
 
-- 🌱 I’m currently learning **TypeScript**
-
 - 👨‍💻 All of my projects are available at [https://kaiowsz.vercel.app](https://kaiowsz.vercel.app)
 
 - 📫 How to reach me: **kaionpsa@gmail.com**
